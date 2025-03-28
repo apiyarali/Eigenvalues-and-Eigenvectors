@@ -1,5 +1,7 @@
 # Cayley-Hamilton Theorem Verifier
 
+**Link to published app: [Eigenvalues and Eigenvectors](https://apiyarali.shinyapps.io/eigen-vectors-values/)**
+
 ## Overview
 This project implements an application that generates a random `3 × 3` matrix with entries from the finite field `Z_5`, computes its characteristic polynomial, determines its eigenvalues, and verifies the Cayley-Hamilton theorem. If the matrix has three distinct eigenvalues, the app also computes the corresponding eigenvectors.
 
